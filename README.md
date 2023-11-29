@@ -1,5 +1,6 @@
-## HACKTIV8 Milestone Project Phase 0 
-Full Time Data Science
+# HACKTIV8 Milestone Project Phase 0 
+## Full Time Data Science
+
 Name: Fernaldy Aristo Wirjowerdojo
 Batch: HCK-009
 
